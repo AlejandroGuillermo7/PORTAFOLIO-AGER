@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # Instituto Tecnológico Nacional de México
 
@@ -11,7 +11,7 @@
 **Alumno:** Enríquez Rodríguez Alejandro Guillermo<br><br><br><br>
 **Fecha de entrega:** 06 de julio del 2026<br><br><br><br>
 
-</p>
+</div>
 
 ---
 
