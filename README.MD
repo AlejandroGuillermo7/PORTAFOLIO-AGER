@@ -142,7 +142,8 @@ Datos de contacto y formulario de mensaje.
 
 ## Ver en vivo
 
-🔗 **GitHub Pages:** https://alejandroguillermo7.github.io/PORTAFOLIO/
+🔗 **GitHub Pages:** https://alejandroguillermo7.github.io/PORTAFOLIO-AGER/
+
 🔗 **Repositorio:** https://github.com/AlejandroGuillermo7/PORTAFOLIO-AGER
 
 ---
